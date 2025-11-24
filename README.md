@@ -13,11 +13,13 @@ Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, Li Chen<sup>1</sup>, Kashyap C
 *Equal Contribution
 
 <sup>1</sup>The University of Hong Kong, <sup>2</sup>NVIDIA, <sup>3</sup>Tsinghua University, <sup>4</sup>Individual Contributor
-<div align="center" style="display: flex; justify-content: center; align-items: flex-end; gap: 40px;">
-    <img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/HKU_logo.png" height="65" style="display: block;">
-    <img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/NVIDIA_logo.png" height="35" style="display: block;">
-    <img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/Tsinghua_logo.png" height="45" style="display: block;">
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/HKU_logo_1.png" height="45" style="vertical-align: middle;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/NVIDIA_logo.png" height="35" style="vertical-align: middle;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/OpenDriveLab/opendrivelab.github.io/master/AMS/Tsinghua_logo.png" height="45" style="vertical-align: middle;">
+</p>
 
 </div>
 
