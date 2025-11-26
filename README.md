@@ -8,7 +8,7 @@
 [[Arxiv]](https://arxiv.org/abs/2511.17373)
 <!-- [[Video]](https://www.youtube.com/watch?v=mzXH4MEypsk) -->
 
-Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, Li Chen<sup>1</sup>, Kashyap Chitta<sup>2</sup>, Liang Pan<sup>1</sup>, Haoguang Mai<sup>1</sup>, Qingwen Bu<sup>1</sup>, Cunyuan Zheng<sup>4</sup>, Hao Zhao<sup>3</sup>, Ping Luo<sup>1</sup>, Hongyang Li<sup>1</sup>
+Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, L. Chen<sup>1</sup>, K. Chitta<sup>2</sup>, L. Pan<sup>1</sup>, H.Mai<sup>1</sup>, Q. Bu<sup>1</sup>, C. Zheng<sup>4</sup>, H. Zhao<sup>3</sup>, P. Luo<sup>1</sup>, H. Li<sup>1</sup>
 
 *Equal Contribution
 
