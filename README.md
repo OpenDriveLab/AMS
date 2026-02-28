@@ -23,8 +23,13 @@ Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, L. Chen<sup>1</sup>, K. Chitta
 
 </div>
 
-## News
-- **Est. Feb 2026**. Code will be released. Please stay tuned.
+## TODOs
+> Note: we re-implement the AMS code for 29dof G1 humanoid.
+- [] Release MotionGen: a sample-based scalable balance motion generator
+- [] Synthetic Balance Motion Datasets
+- [] Release training and evaluation code
+- [] Release Sim2Sim code
+- [] Release deployment code
 
 
 ## Citation
