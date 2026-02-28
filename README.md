@@ -25,11 +25,11 @@ Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, L. Chen<sup>1</sup>, K. Chitta
 
 ## TODOs
 > Note: we re-implement the AMS code for 29dof G1 humanoid.
-- [] Release MotionGen: a sample-based scalable balance motion generator
-- [] Synthetic Balance Motion Datasets
-- [] Release training and evaluation code
-- [] Release Sim2Sim code
-- [] Release deployment code
+- [ ] Release MotionGen: a sample-based scalable balance motion generator
+- [ ] Synthetic Balance Motion Datasets
+- [ ] Release training and evaluation code
+- [ ] Release Sim2Sim code
+- [ ] Release deployment code
 
 
 ## Citation
