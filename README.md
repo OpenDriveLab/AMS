@@ -29,7 +29,7 @@ clone the repository:
 git clone https://github.com/OpenDriveLab/AMS.git
 cd AMS
 ```
-for detailed instructions of motion generation and policy training, please refer to the [motion_generation/README.md](motion_generation/README.md) and [policy_training/README.md](policy_training/README.md) in the motion_generation and policy_training sub-repositories.
+For detailed instructions of motion generation, please refer to the [MotionGen/README.md](MotionGen/README.md) in the MotionGen sub-repositories.
 
 
 ## TODO List
