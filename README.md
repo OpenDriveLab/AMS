@@ -23,8 +23,13 @@ Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, L. Chen<sup>1</sup>, K. Chitta
 
 </div>
 
+## News
+* [2026-03-02] Balance motion generation pipeline is released.
+* [2026-01-31] AMS is accepted by ICRA 2026.
+
 ## Usage
-clone the repository:
+
+Clone the repository:
 ```bash
 git clone https://github.com/OpenDriveLab/AMS.git
 cd AMS
