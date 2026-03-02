@@ -23,8 +23,8 @@
 Implementation for **“Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data”**, built on [Pyroki](https://github.com/chungmin99/pyroki). Generates stable balance motions for the **29-DoF Unitree G1**.
 
 
-https://github.com/user-attachments/assets/851a4a0e-5103-4f3d-bd30-2189a93f917a
 
+https://github.com/user-attachments/assets/d2e2ac2f-5598-41c1-a37a-1f3cb879e83b
 
 
 ## 📦 Setup
