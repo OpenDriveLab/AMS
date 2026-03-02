@@ -23,9 +23,18 @@ Yixuan Pan<sup>1*</sup>, Ruoyi Qiao<sup>4*</sup>, L. Chen<sup>1</sup>, K. Chitta
 
 </div>
 
-## TODOs
+## Usage
+clone the repository:
+```bash
+git clone https://github.com/OpenDriveLab/AMS.git
+cd AMS
+```
+for detailed instructions of motion generation and policy training, please refer to the [motion_generation/README.md](motion_generation/README.md) and [policy_training/README.md](policy_training/README.md) in the motion_generation and policy_training sub-repositories.
+
+
+## TODO List
 > Note: we re-implement the AMS code for 29dof G1 humanoid.
-- [ ] Release MotionGen: a sample-based scalable balance motion generator
+- [x] Release MotionGen: a sample-based scalable balance motion generator
 - [ ] Synthetic Balance Motion Datasets
 - [ ] Release training and evaluation code
 - [ ] Release Sim2Sim code
