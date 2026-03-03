@@ -24,7 +24,8 @@ Implementation for **“Agility Meets Stability: Versatile Humanoid Control with
 
 
 
-https://github.com/user-attachments/assets/d2e2ac2f-5598-41c1-a37a-1f3cb879e83b
+https://github.com/user-attachments/assets/f2b0baa8-7590-4255-9406-594e3957dda9
+
 
 
 ## 📦 Setup
