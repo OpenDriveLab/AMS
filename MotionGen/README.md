@@ -103,7 +103,10 @@ python scripts/process_annotations_to_pkl.py \
 ```
 
 
-<!-- we provided a [synthetic balance motion dataset](xxx) containing approximately 7,000 sequences generated using this exact procedure. -->
+We provide a synthetic balance motion dataset with approximately **10,000** sequences generated using the above pipeline.
+
+- **Hugging Face**: download from the hugging face dataset page: [🤗 Hugging Face](https://huggingface.co/datasets/ruoyiqiao/AMS)
+- **Git LFS**: clone this repo with Git LFS to fetch the `.pkl` via `git lfs pull`.
 
 ---
 
@@ -141,4 +144,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 <a name="acknowledgements_section"></a>
 
-- [Pyroki](https://github.com/pyroki/pyroki): We use `pyroki` library to generate the balance motion for the G1 robot.
+- [Pyroki](https://github.com/pyroki/pyroki): We thank the `pyroki` library for providing a toolkit for kinematic optimization.
